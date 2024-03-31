@@ -1,9 +1,10 @@
-# Win24-Team16
+# Synopsis:
+Reflect, be entertained, and stay grounded with Echo — the voice journal powered by AI. Echo enables users to record memories, journal about emotions, and more with a straight-forward, low-friction design and a unique set of features including automatic quote extraction, transcription, and AI summaries of journal entries. 
+<br><br>
+<img width="258" alt="logo" src="https://github.com/StanfordCS194/Win24-Team16/assets/63484896/f709888c-da07-4293-a41a-c5905dd9705d">
+<br><br>
+Theme songs: ["Tell Me a Story" by Jimmy Boyd](https://www.youtube.com/watch?v=LjBWApYXSTg) and ["Remember When" by Alan Jackson](https://www.youtube.com/watch?v=TTA2buWlNyM) because they speak to the purpose of our app in capturing stories. 
 
-| Jason Lin
-| Alex Zhang
-| Anna Hudson
-| Cole Lee
 
 ## Getting Started
 
